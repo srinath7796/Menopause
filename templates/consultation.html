@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultation Booking</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .form-container {
+            background-color: #fff0f5;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+        h2 {
+            color: #ff69b4;
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin-bottom: 5px;
+            color: #333;
+        }
+        input[type="text"],
+        input[type="email"] {
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ffc0cb;
+            border-radius: 10px;
+            outline: none;
+            background-color: #fff0f5;
+        }
+        button[type="submit"] {
+            padding: 10px;
+            background-color: #ff69b4;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+        button[type="submit"]:hover {
+            background-color: #ff1493;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Book Your Consultation</h2>
+        <form id="consultation-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById("consultation-form").onsubmit = function(event) {
+            event.preventDefault();
+            const name = document.getElementById("name").value;
+            const email = document.getElementById("email").value;
+
+            fetch("/consultation", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: new URLSearchParams({
+                    "name": name,
+                    "email": email,
+                    "user_id": "some_unique_id" // Replace with actual user ID tracking
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message + " " + data.appointment_time);
+                window.close(); // Close the window after booking is confirmed
+            });
+        };
+    </script>
+</body>
+</html>

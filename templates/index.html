@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menopause Assistant</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+            color: white;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+            letter-spacing: 1.5px;
+            font-weight: 700;
+        }
+
+        .chat-container {
+            background-color: #fff0f5;
+            width: 500px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-box {
+            width: 100%;
+            height: 450px;
+            border: 1px solid #ffb6c1;
+            border-radius: 15px;
+            padding: 15px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            background-color: #fff;
+        }
+
+        .chat-box .message {
+            margin-bottom: 10px;
+            padding: 12px 18px;
+            border-radius: 25px;
+            max-width: 80%;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .chat-box .user-message {
+            background-color: #ffccd5;
+            align-self: flex-end;
+            color: #333;
+            text-align: right;
+            margin-left: auto;
+        }
+
+        .chat-box .bot-message {
+            background-color: #ffb6c1;
+            align-self: flex-start;
+            color: #333;
+            text-align: left;
+            margin-right: auto;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .input-group {
+            display: flex;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 15px;
+            border: 1px solid #ffb6c1;
+            border-radius: 25px 0 0 25px;
+            outline: none;
+            background-color: #fff0f5;
+            transition: background-color 0.3s, border-color 0.3s;
+        }
+
+        .input-group input:focus {
+            background-color: #ffe0e6;
+            border-color: #ff69b4;
+        }
+
+        .input-group button {
+            padding: 15px 25px;
+            border: none;
+            background-color: #ff69b4;
+            color: white;
+            border-radius: 0 25px 25px 0;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .input-group button:hover {
+            background-color: #ff1493;
+            transform: scale(1.05);
+        }
+
+        .option-button {
+            background-color: #ff69b4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 20px;
+            cursor: pointer;
+            display: inline-block;
+            text-align: center;
+            font-size: 14px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .option-button:hover {
+            background-color: #ff1493;
+            transform: scale(1.05);
+        }
+
+        #submit-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+            display: none;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        #submit-button:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
+        }
+
+        .option-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        @media (max-width: 600px) {
+            .chat-container {
+                width: 100%;
+                margin: 20px;
+            }
+
+            h1 {
+                font-size: 28px;
+            }
+
+            .chat-box {
+                height: 350px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to Menopause Assistant</h1>
+        <div class="chat-container">
+            <div class="chat-box" id="chat-box">
+                <!-- Chat messages will appear here -->
+            </div>
+            <div class="input-group">
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let selectedOptions = []; // Array to store selected options
+
+        function sendMessage() {
+            const userInput = document.getElementById("user-input").value;
+            document.getElementById("user-input").value = "";
+            if (userInput.trim() === "" && selectedOptions.length === 0) return; // Check if input is empty and no options selected
+
+            const chatBox = document.getElementById("chat-box");
+
+            // User message bubble
+            const userMessage = document.createElement("div");
+            userMessage.classList.add("message", "user-message");
+            userMessage.textContent = selectedOptions.length > 0 ? selectedOptions.join(", ") : userInput; // Display selected options or user input
+            chatBox.appendChild(userMessage);
+
+            fetch("/chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ query: selectedOptions.length > 0 ? selectedOptions.join(", ") : userInput, user_id: "some_unique_id" })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.redirect) {
+                        window.location.href = data.redirect;
+                    } else {
+                        const botMessage = document.createElement("div");
+                        botMessage.classList.add("message", "bot-message");
+                        botMessage.textContent = data.answer;
+                        chatBox.appendChild(botMessage);
+
+                        if (data.follow_up) {
+                            const followUpMessage = document.createElement("div");
+                            followUpMessage.classList.add("message", "bot-message");
+                            followUpMessage.textContent = data.follow_up;
+                            chatBox.appendChild(followUpMessage);
+                        }
+
+                        if (data.options) {
+                            showOptions(data.options);
+                        }
+
+                        chatBox.scrollTop = chatBox.scrollHeight;
+
+                        // Clear selected options after sending
+                        selectedOptions = [];
+                        const submitButton = document.getElementById("submit-button");
+                        if (submitButton) {
+                            submitButton.style.display = "none"; // Hide submit button after sending
+                        }
+                    }
+                });
+        }
+
+        function showOptions(options) {
+            const chatBox = document.getElementById("chat-box");
+            const optionContainer = document.createElement("div");
+            optionContainer.classList.add("option-container");
+
+            options.forEach(option => {
+                const optionButton = document.createElement("button");
+                optionButton.textContent = option;
+                optionButton.classList.add("option-button");
+                optionButton.onclick = () => toggleOptionSelection(option, optionButton);
+                optionContainer.appendChild(optionButton);
+            });
+
+            chatBox.appendChild(optionContainer);
+
+            // Create and append a submit button
+            const submitButton = document.createElement("button");
+            submitButton.textContent = "Submit";
+            submitButton.classList.add("option-button");
+            submitButton.id = "submit-button";
+            submitButton.style.display = "none"; // Initially hidden
+            submitButton.onclick = sendMessage;
+            chatBox.appendChild(submitButton);
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function toggleOptionSelection(option, button) {
+            const index = selectedOptions.indexOf(option);
+            if (index === -1) {
+                selectedOptions.push(option);
+                button.style.backgroundColor = "#ff1493"; // Highlight selected
+            } else {
+                selectedOptions.splice(index, 1);
+                button.style.backgroundColor = "#ff69b4"; // Un-highlight unselected
+            }
+
+            const submitButton = document.getElementById("submit-button");
+            if (submitButton) {
+                submitButton.style.display = selectedOptions.length > 0 ? "block" : "none"; // Show submit button if any option is selected
+            }
+        }
+    </script>
+
+</body>
+
+</html>

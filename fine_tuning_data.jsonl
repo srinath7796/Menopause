@@ -1,0 +1,1086 @@
+{"prompt": "Context: \nScenario 1\n\nUser: ", "completion": " Chatbot: Scenario 1"}
+{"prompt": "Context: \nChatbot: Hello! I'm here to help you navigate menopause. Let's start with a few questions to understand your symptoms better. Is that okay with you?\n\nUser: ", "completion": " Chatbot: Chatbot: Hello! I'm here to help you navigate menopause. Let's start with a few questions to understand your symptoms better. Is that okay with you?"}
+{"prompt": "Context: \nUser: Yes, that's fine.\n\nUser: ", "completion": " Chatbot: User: Yes, that's fine."}
+{"prompt": "Context: \nChatbot: Great! What issues are you facing from the list below? Please tick all that relate to you.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! What issues are you facing from the list below? Please tick all that relate to you."}
+{"prompt": "Context: \nFatigue\n\nUser: ", "completion": " Chatbot: Fatigue"}
+{"prompt": "Context: \nHot Flushes\n\nUser: ", "completion": " Chatbot: Hot Flushes"}
+{"prompt": "Context: \nSleep\n\nUser: ", "completion": " Chatbot: Sleep"}
+{"prompt": "Context: \nMood Swings\n\nUser: ", "completion": " Chatbot: Mood Swings"}
+{"prompt": "Context: \nRestless Legs\n\nUser: ", "completion": " Chatbot: Restless Legs"}
+{"prompt": "Context: \nVaginal Dryness\n\nUser: ", "completion": " Chatbot: Vaginal Dryness"}
+{"prompt": "Context: \nAnxiety\n\nUser: ", "completion": " Chatbot: Anxiety"}
+{"prompt": "Context: \nBrain Fog\n\nUser: ", "completion": " Chatbot: Brain Fog"}
+{"prompt": "Context: \nDepression\n\nUser: ", "completion": " Chatbot: Depression"}
+{"prompt": "Context: \nDizzy Spells\n\nUser: ", "completion": " Chatbot: Dizzy Spells"}
+{"prompt": "Context: \nPanic Disorders\n\nUser: ", "completion": " Chatbot: Panic Disorders"}
+{"prompt": "Context: \nBreast Pain\n\nUser: ", "completion": " Chatbot: Breast Pain"}
+{"prompt": "Context: \nCramps\n\nUser: ", "completion": " Chatbot: Cramps"}
+{"prompt": "Context: \nGut Health\n\nUser: ", "completion": " Chatbot: Gut Health"}
+{"prompt": "Context: \nElectric Shocks\n\nUser: ", "completion": " Chatbot: Electric Shocks"}
+{"prompt": "Context: \nHeadaches\n\nUser: ", "completion": " Chatbot: Headaches"}
+{"prompt": "Context: \nJoint pain\n\nUser: ", "completion": " Chatbot: Joint pain"}
+{"prompt": "Context: \nTension\n\nUser: ", "completion": " Chatbot: Tension"}
+{"prompt": "Context: \nBrittle Nails\n\nUser: ", "completion": " Chatbot: Brittle Nails"}
+{"prompt": "Context: \nHair Thinning\n\nUser: ", "completion": " Chatbot: Hair Thinning"}
+{"prompt": "Context: \nItchy Skin\n\nUser: ", "completion": " Chatbot: Itchy Skin"}
+{"prompt": "Context: \nTingling\n\nUser: ", "completion": " Chatbot: Tingling"}
+{"prompt": "Context: \nAllergies\n\nUser: ", "completion": " Chatbot: Allergies"}
+{"prompt": "Context: \nBurning Tongue\n\nUser: ", "completion": " Chatbot: Burning Tongue"}
+{"prompt": "Context: \nGum Issues\n\nUser: ", "completion": " Chatbot: Gum Issues"}
+{"prompt": "Context: \nOsteoporosis\n\nUser: ", "completion": " Chatbot: Osteoporosis"}
+{"prompt": "Context: \nUser: Sleep, Hot Flushes, Joint Pain, Brain Fog.\n\nUser: ", "completion": " Chatbot: User: Sleep, Hot Flushes, Joint Pain, Brain Fog."}
+{"prompt": "Context: \nChatbot: Thank you. What are your main concerns from the list below?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What are your main concerns from the list below?"}
+{"prompt": "Context: \nSleep\n\nUser: ", "completion": " Chatbot: Sleep"}
+{"prompt": "Context: \nJoint Pain\n\nUser: ", "completion": " Chatbot: Joint Pain"}
+{"prompt": "Context: \nBrain Fog\n\nUser: ", "completion": " Chatbot: Brain Fog"}
+{"prompt": "Context: \nHot Flushes\n\nUser: ", "completion": " Chatbot: Hot Flushes"}
+{"prompt": "Context: \nIntimacy\n\nUser: ", "completion": " Chatbot: Intimacy"}
+{"prompt": "Context: \nUser: Sleep and Brain Fog.\n\nUser: ", "completion": " Chatbot: User: Sleep and Brain Fog."}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep?"}
+{"prompt": "Context: \nDo you find yourself waking up at night?\n\nUser: ", "completion": " Chatbot: Do you find yourself waking up at night?"}
+{"prompt": "Context: \nDo you sleep like a baby?\n\nUser: ", "completion": " Chatbot: Do you sleep like a baby?"}
+{"prompt": "Context: \nDo you get restless legs?\n\nUser: ", "completion": " Chatbot: Do you get restless legs?"}
+{"prompt": "Context: \nDo you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I get night sweats.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I get night sweats."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes\n\nUser: ", "completion": " Chatbot: Yes"}
+{"prompt": "Context: \nNo\n\nUser: ", "completion": " Chatbot: No"}
+{"prompt": "Context: \nDo not know\n\nUser: ", "completion": " Chatbot: Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep and night sweats:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep and night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones and Sleep Sound H20: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones and Sleep Sound H20: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray:"}
+{"prompt": "Context: \nFor Initial Application:\n\nUser: ", "completion": " Chatbot: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nRestless Legs:\n\nUser: ", "completion": " Chatbot: Restless Legs:"}
+{"prompt": "Context: \nSpray 10 to 15 squirts on each leg. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: Spray 10 to 15 squirts on each leg. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nNight Sweats:\n\nUser: ", "completion": " Chatbot: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal)"}
+{"prompt": "Context: \nNot regular for under 12 months (you are perimenopausal)\n\nUser: ", "completion": " Chatbot: Not regular for under 12 months (you are perimenopausal)"}
+{"prompt": "Context: \nNot regular for over 12 months (you are still perimenopausal)\n\nUser: ", "completion": " Chatbot: Not regular for over 12 months (you are still perimenopausal)"}
+{"prompt": "Context: \nCannot remember\n\nUser: ", "completion": " Chatbot: Cannot remember"}
+{"prompt": "Context: \nHas not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40\n\nUser: ", "completion": " Chatbot: Under 40"}
+{"prompt": "Context: \n40-49\n\nUser: ", "completion": " Chatbot: 40-49"}
+{"prompt": "Context: \n50-59\n\nUser: ", "completion": " Chatbot: 50-59"}
+{"prompt": "Context: \n60 and over\n\nUser: ", "completion": " Chatbot: 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 3 PM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 3 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 2\n\nUser: ", "completion": " Chatbot: Scenario 2"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I get restless legs.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I get restless legs."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Do not know.\n\nUser: ", "completion": " Chatbot: User: Do not know."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night and restless legs:\n\nUser: ", "completion": " Chatbot: For waking up at night and restless legs:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nRestless Legs:\n\nUser: ", "completion": " Chatbot: Restless Legs:"}
+{"prompt": "Context: \nSpray 10 to 15 squirts on each leg. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: Spray 10 to 15 squirts on each leg. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 10 AM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 10 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 3\n\nUser: ", "completion": " Chatbot: Scenario 3"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nChamomile Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Chamomile Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Has not seen for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Has not seen for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 60 and over.\n\nUser: ", "completion": " Chatbot: User: 60 and over."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nChamomile Tea\n\nUser: ", "completion": " Chatbot: Chamomile Tea"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 4\n\nUser: ", "completion": " Chatbot: Scenario 4"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get night sweats and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I get night sweats and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor night sweats:\n\nUser: ", "completion": " Chatbot: For night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones and Sleep Sound H20: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones and Sleep Sound H20: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: Night Sweats:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Cannot remember.\n\nUser: ", "completion": " Chatbot: User: Cannot remember."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Wednesday at 1 PM.\n\nUser: ", "completion": " Chatbot: User: Next Wednesday at 1 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 5\n\nUser: ", "completion": " Chatbot: Scenario 5"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I sleep like a baby and do not have trouble getting to sleep.\n\nUser: ", "completion": " Chatbot: User: I sleep like a baby and do not have trouble getting to sleep."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: It seems like you don\u2019t have sleep-related issues. Is there anything else you'd like to address, such as hot flushes, joint pain, or brain fog?\n\nUser: ", "completion": " Chatbot: Chatbot: It seems like you don\u2019t have sleep-related issues. Is there anything else you'd like to address, such as hot flushes, joint pain, or brain fog?"}
+{"prompt": "Context: \nUser: Yes, I have hot flushes.\n\nUser: ", "completion": " Chatbot: User: Yes, I have hot flushes."}
+{"prompt": "Context: \nChatbot: For hot flushes, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For hot flushes, here are some product suggestions:"}
+{"prompt": "Context: \nIsoflavones: For reducing hot flushes\n\nUser: ", "completion": " Chatbot: Isoflavones: For reducing hot flushes"}
+{"prompt": "Context: \nCooling Gel: For instant relief from hot flushes\n\nUser: ", "completion": " Chatbot: Cooling Gel: For instant relief from hot flushes"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nCooling Gel\n\nUser: ", "completion": " Chatbot: Cooling Gel"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 6\n\nUser: ", "completion": " Chatbot: Scenario 6"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I get night sweats.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I get night sweats."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night and night sweats:\n\nUser: ", "completion": " Chatbot: For waking up at night and night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nCooling Gel: For night sweats\n\nUser: ", "completion": " Chatbot: Cooling Gel: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nNight Sweats:\n\nUser: ", "completion": " Chatbot: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Thursday at 2 PM.\n\nUser: ", "completion": " Chatbot: User: Next Thursday at 2 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Thursday at 2 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Thursday at 2 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 7\n\nUser: ", "completion": " Chatbot: Scenario 7"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I get restless legs.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I get restless legs."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Do not know.\n\nUser: ", "completion": " Chatbot: User: Do not know."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night and restless legs:\n\nUser: ", "completion": " Chatbot: For waking up at night and restless legs:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 10 AM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 10 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 8\n\nUser: ", "completion": " Chatbot: Scenario 8"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nChamomile Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Chamomile Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Has not seen for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Has not seen for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 60 and over.\n\nUser: ", "completion": " Chatbot: User: 60 and over."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nChamomile Tea\n\nUser: ", "completion": " Chatbot: Chamomile Tea"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 9\n\nUser: ", "completion": " Chatbot: Scenario 9"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get night sweats and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I get night sweats and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor night sweats:\n\nUser: ", "completion": " Chatbot: For night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones and Sleep Sound H20: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones and Sleep Sound H20: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: Night Sweats:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Cannot remember.\n\nUser: ", "completion": " Chatbot: User: Cannot remember."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Wednesday at 1 PM.\n\nUser: ", "completion": " Chatbot: User: Next Wednesday at 1 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 10\n\nUser: ", "completion": " Chatbot: Scenario 10"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I sleep like a baby and do not have trouble getting to sleep.\n\nUser: ", "completion": " Chatbot: User: I sleep like a baby and do not have trouble getting to sleep."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor a good night's sleep:\n\nUser: ", "completion": " Chatbot: For a good night's sleep:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nCalming Herbal Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Calming Herbal Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nCalming Herbal Tea\n\nUser: ", "completion": " Chatbot: Calming Herbal Tea"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, thank you.\n\nUser: ", "completion": " Chatbot: User: No, thank you."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 11\n\nUser: ", "completion": " Chatbot: Scenario 11"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I get night sweats.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I get night sweats."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep and night sweats:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep and night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nNight Sweats:\n\nUser: ", "completion": " Chatbot: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 3 PM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 3 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 12\n\nUser: ", "completion": " Chatbot: Scenario 12"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I get night sweats.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I get night sweats."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night and night sweats:\n\nUser: ", "completion": " Chatbot: For waking up at night and night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nNight Sweats:\n\nUser: ", "completion": " Chatbot: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a menopause specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a menopause specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Thursday at 2 PM.\n\nUser: ", "completion": " Chatbot: User: Next Thursday at 2 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Thursday at 2 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Thursday at 2 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 13\n\nUser: ", "completion": " Chatbot: Scenario 13"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get restless legs and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I get restless legs and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Do not know.\n\nUser: ", "completion": " Chatbot: User: Do not know."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor restless legs:\n\nUser: ", "completion": " Chatbot: For restless legs:"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nDirections for Using Magnesium Lotion:\n\nUser: ", "completion": " Chatbot: Directions for Using Magnesium Lotion:"}
+{"prompt": "Context: \nApply a small amount to your legs before bedtime. Massage the lotion into your skin thoroughly.\n\nUser: ", "completion": " Chatbot: Apply a small amount to your legs before bedtime. Massage the lotion into your skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nMagnesium Lotion\n\nUser: ", "completion": " Chatbot: Magnesium Lotion"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, thank you.\n\nUser: ", "completion": " Chatbot: User: No, thank you."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 14\n\nUser: ", "completion": " Chatbot: Scenario 14"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I get restless legs.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I get restless legs."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night and restless legs:\n\nUser: ", "completion": " Chatbot: For waking up at night and restless legs:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nRestless Legs:\n\nUser: ", "completion": " Chatbot: Restless Legs:"}
+{"prompt": "Context: \nApply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly.\n\nUser: ", "completion": " Chatbot: Apply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Friday at 11 AM.\n\nUser: ", "completion": " Chatbot: User: Next Friday at 11 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Friday at 11 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Friday at 11 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 15\n\nUser: ", "completion": " Chatbot: Scenario 15"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I get restless legs.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I get restless legs."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep and restless legs:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep and restless legs:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nRestless Legs:\n\nUser: ", "completion": " Chatbot: Restless Legs:"}
+{"prompt": "Context: \nApply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly.\n\nUser: ", "completion": " Chatbot: Apply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nMagnesium Lotion\n\nUser: ", "completion": " Chatbot: Magnesium Lotion"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 3 PM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 3 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Monday at 3 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 16\n\nUser: ", "completion": " Chatbot: Scenario 16"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I find myself waking up at night and I sleep like a baby.\n\nUser: ", "completion": " Chatbot: User: I find myself waking up at night and I sleep like a baby."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor waking up at night:\n\nUser: ", "completion": " Chatbot: For waking up at night:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nCalming Herbal Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Calming Herbal Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 2 PM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 2 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 2 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 2 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 17\n\nUser: ", "completion": " Chatbot: Scenario 17"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get night sweats and I get restless legs.\n\nUser: ", "completion": " Chatbot: User: I get night sweats and I get restless legs."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor night sweats and restless legs:\n\nUser: ", "completion": " Chatbot: For night sweats and restless legs:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones: For night sweats"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: Night Sweats:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nRestless Legs:\n\nUser: ", "completion": " Chatbot: Restless Legs:"}
+{"prompt": "Context: \nApply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly.\n\nUser: ", "completion": " Chatbot: Apply a small amount of Magnesium Lotion to your legs before bedtime. Massage the lotion into your skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Cannot remember.\n\nUser: ", "completion": " Chatbot: User: Cannot remember."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nMagnesium Lotion\n\nUser: ", "completion": " Chatbot: Magnesium Lotion"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Wednesday at 3 PM.\n\nUser: ", "completion": " Chatbot: User: Next Wednesday at 3 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 3 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 3 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 18\n\nUser: ", "completion": " Chatbot: Scenario 18"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I find myself waking up at night.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I find myself waking up at night."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep and waking up at night:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep and waking up at night:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nCalming Herbal Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Calming Herbal Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 11 AM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 11 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Monday at 11 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Monday at 11 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 19\n\nUser: ", "completion": " Chatbot: Scenario 19"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I sleep like a baby and I get night sweats.\n\nUser: ", "completion": " Chatbot: User: I sleep like a baby and I get night sweats."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor night sweats:\n\nUser: ", "completion": " Chatbot: For night sweats:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: Night Sweats:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 4 PM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 4 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 4 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Tuesday at 4 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 20\n\nUser: ", "completion": " Chatbot: Scenario 20"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get restless legs and I have trouble getting to sleep.\n\nUser: ", "completion": " Chatbot: User: I get restless legs and I have trouble getting to sleep."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Do not know.\n\nUser: ", "completion": " Chatbot: User: Do not know."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor restless legs and trouble getting to sleep:\n\nUser: ", "completion": " Chatbot: For restless legs and trouble getting to sleep:"}
+{"prompt": "Context: \nMagnesium Lotion: For restless legs\n\nUser: ", "completion": " Chatbot: Magnesium Lotion: For restless legs"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nDirections for Using Magnesium Lotion:\n\nUser: ", "completion": " Chatbot: Directions for Using Magnesium Lotion:"}
+{"prompt": "Context: \nApply a small amount to your legs before bedtime. Massage the lotion into your skin thoroughly.\n\nUser: ", "completion": " Chatbot: Apply a small amount to your legs before bedtime. Massage the lotion into your skin thoroughly."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nMagnesium Lotion\n\nUser: ", "completion": " Chatbot: Magnesium Lotion"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, thank you.\n\nUser: ", "completion": " Chatbot: User: No, thank you."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 21\n\nUser: ", "completion": " Chatbot: Scenario 21"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I have trouble getting to sleep and I find myself waking up at night.\n\nUser: ", "completion": " Chatbot: User: I have trouble getting to sleep and I find myself waking up at night."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: No.\n\nUser: ", "completion": " Chatbot: User: No."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor trouble getting to sleep and waking up at night:\n\nUser: ", "completion": " Chatbot: For trouble getting to sleep and waking up at night:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nCalming Herbal Tea: For relaxation\n\nUser: ", "completion": " Chatbot: Calming Herbal Tea: For relaxation"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: For Initial Application:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! How about a consultation with a sleep specialist? Would you like to book an appointment?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Thursday at 10 AM.\n\nUser: ", "completion": " Chatbot: User: Next Thursday at 10 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Thursday at 10 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Thursday at 10 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care, and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 22\n\nUser: ", "completion": " Chatbot: Scenario 22"}
+{"prompt": "Context: \nChatbot: Let's dive into your sleep issues. How well do you sleep?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's dive into your sleep issues. How well do you sleep?"}
+{"prompt": "Context: \nDo you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?\n\nUser: ", "completion": " Chatbot: Do you have trouble getting to sleep? Do you find yourself waking up at night? Do you sleep like a baby? Do you get restless legs? Do you get night sweats?"}
+{"prompt": "Context: \nUser: I get night sweats and I have trouble getting to sleep.\n\nUser: ", "completion": " Chatbot: User: I get night sweats and I have trouble getting to sleep."}
+{"prompt": "Context: \nChatbot: Do you like the smell of lavender?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you like the smell of lavender?"}
+{"prompt": "Context: \nYes No Do not know\n\nUser: ", "completion": " Chatbot: Yes No Do not know"}
+{"prompt": "Context: \nUser: Yes.\n\nUser: ", "completion": " Chatbot: User: Yes."}
+{"prompt": "Context: \nChatbot: Based on your preferences and symptoms, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your preferences and symptoms, here are some product suggestions:"}
+{"prompt": "Context: \nFor night sweats and trouble getting to sleep:\n\nUser: ", "completion": " Chatbot: For night sweats and trouble getting to sleep:"}
+{"prompt": "Context: \nSleep Sound H20: If you are perimenopausal or postmenopausal\n\nUser: ", "completion": " Chatbot: Sleep Sound H20: If you are perimenopausal or postmenopausal"}
+{"prompt": "Context: \nIsoflavones: For night sweats\n\nUser: ", "completion": " Chatbot: Isoflavones: For night sweats"}
+{"prompt": "Context: \nDirections for Using Sleep Sound Spray: Night Sweats:\n\nUser: ", "completion": " Chatbot: Directions for Using Sleep Sound Spray: Night Sweats:"}
+{"prompt": "Context: \nSpray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed.\n\nUser: ", "completion": " Chatbot: Spray a small amount (4-5 sprays) directly onto your skin, in common areas like the chest, back, and underarms. Gently massage the spray into your skin until it is fully absorbed."}
+{"prompt": "Context: \nFor Initial Application:\n\nUser: ", "completion": " Chatbot: For Initial Application:"}
+{"prompt": "Context: \nOn the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Soles of Your Feet: Spray 5 to 6 squirts on the soles of your feet. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn Your Pillow: Lightly spray the pillow with the spray.\n\nUser: ", "completion": " Chatbot: On Your Pillow: Lightly spray the pillow with the spray."}
+{"prompt": "Context: \nIf You Wake Up in the Middle of the Night:\n\nUser: ", "completion": " Chatbot: If You Wake Up in the Middle of the Night:"}
+{"prompt": "Context: \nOn the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly.\n\nUser: ", "completion": " Chatbot: On the Thighs: Spray 4 to 5 squirts on your thighs. Rub the spray into the skin thoroughly."}
+{"prompt": "Context: \nOn the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently.\n\nUser: ", "completion": " Chatbot: On the Inside of Your Wrists: Spray 4 to 5 squirts on the inside of your wrists. Rub the spray in gently."}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's move on to some more questions to get a comprehensive understanding.\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's move on to some more questions to get a comprehensive understanding."}
+{"prompt": "Context: \nDescribe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Describe your menstrual cycle:"}
+{"prompt": "Context: \nRegular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)\n\nUser: ", "completion": " Chatbot: Regular like clockwork (it is unlikely you are perimenopausal) Not regular for under 12 months (you are perimenopausal) Not regular for over 12 months (you are still perimenopausal) Cannot remember Has not seen for over 12 months (postmenopausal)"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \nUnder 40 40-49 50-59 60 and over\n\nUser: ", "completion": " Chatbot: Under 40 40-49 50-59 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \nSleep Sound H20\n\nUser: ", "completion": " Chatbot: Sleep Sound H20"}
+{"prompt": "Context: \nIsoflavones\n\nUser: ", "completion": " Chatbot: Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Wednesday at 1 PM.\n\nUser: ", "completion": " Chatbot: User: Next Wednesday at 1 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you on next Wednesday at 1 PM"}
+{"prompt": "Context: \nScenario 23\n\nUser: ", "completion": " Chatbot: Scenario 23"}
+{"prompt": "Context: \nChatbot: Let's talk about your joint pain. How severe is it on a scale from 1 to 10?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your joint pain. How severe is it on a scale from 1 to 10?"}
+{"prompt": "Context: \nUser: It's about a 7.\n\nUser: ", "completion": " Chatbot: User: It's about a 7."}
+{"prompt": "Context: \nChatbot: Do you experience swelling or stiffness in your joints?\n\nUser: ", "completion": " Chatbot: Chatbot: Do you experience swelling or stiffness in your joints?"}
+{"prompt": "Context: \nUser: Yes, both.\n\nUser: ", "completion": " Chatbot: User: Yes, both."}
+{"prompt": "Context: \nChatbot: For joint pain, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For joint pain, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements: For reducing inflammation\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements: For reducing inflammation"}
+{"prompt": "Context: \n\u2022 Turmeric Capsules: For pain relief\n\nUser: ", "completion": " Chatbot: \u2022 Turmeric Capsules: For pain relief"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements"}
+{"prompt": "Context: \n\u2022 Turmeric Capsules\n\nUser: ", "completion": " Chatbot: \u2022 Turmeric Capsules"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 24\n\nUser: ", "completion": " Chatbot: Scenario 24"}
+{"prompt": "Context: \nChatbot: Let's discuss your mood swings. How often do you experience mood swings?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's discuss your mood swings. How often do you experience mood swings?"}
+{"prompt": "Context: \nUser: Almost daily.\n\nUser: ", "completion": " Chatbot: User: Almost daily."}
+{"prompt": "Context: \nChatbot: Are your mood swings severe, moderate, or mild?\n\nUser: ", "completion": " Chatbot: Chatbot: Are your mood swings severe, moderate, or mild?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For mood swings, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For mood swings, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 St. John's Wort: For mood stabilization\n\nUser: ", "completion": " Chatbot: \u2022 St. John's Wort: For mood stabilization"}
+{"prompt": "Context: \n\u2022 Evening Primrose Oil: For hormone balance\n\nUser: ", "completion": " Chatbot: \u2022 Evening Primrose Oil: For hormone balance"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Friday at 11 AM.\n\nUser: ", "completion": " Chatbot: User: Next Friday at 11 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Friday at 11 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Friday at 11 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 25\n\nUser: ", "completion": " Chatbot: Scenario 25"}
+{"prompt": "Context: \nChatbot: Let's talk about your fatigue. How often do you feel fatigued?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your fatigue. How often do you feel fatigued?"}
+{"prompt": "Context: \nUser: Every day.\n\nUser: ", "completion": " Chatbot: User: Every day."}
+{"prompt": "Context: \nChatbot: Is the fatigue mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the fatigue mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Severe.\n\nUser: ", "completion": " Chatbot: User: Severe."}
+{"prompt": "Context: \nChatbot: For severe fatigue, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For severe fatigue, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Vitamin B12: For energy boost\n\nUser: ", "completion": " Chatbot: \u2022 Vitamin B12: For energy boost"}
+{"prompt": "Context: \n\u2022 Ginseng: For reducing fatigue\n\nUser: ", "completion": " Chatbot: \u2022 Ginseng: For reducing fatigue"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Has not seen for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Has not seen for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Vitamin B12\n\nUser: ", "completion": " Chatbot: \u2022 Vitamin B12"}
+{"prompt": "Context: \n\u2022 Ginseng\n\nUser: ", "completion": " Chatbot: \u2022 Ginseng"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 26\n\nUser: ", "completion": " Chatbot: Scenario 26"}
+{"prompt": "Context: \nChatbot: Let's talk about your anxiety. How often do you feel anxious?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your anxiety. How often do you feel anxious?"}
+{"prompt": "Context: \nUser: Several times a week.\n\nUser: ", "completion": " Chatbot: User: Several times a week."}
+{"prompt": "Context: \nChatbot: Is the anxiety mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the anxiety mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For moderate anxiety, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For moderate anxiety, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Ashwagandha: For reducing anxiety\n\nUser: ", "completion": " Chatbot: \u2022 Ashwagandha: For reducing anxiety"}
+{"prompt": "Context: \n\u2022 Lavender Oil: For calming effects\n\nUser: ", "completion": " Chatbot: \u2022 Lavender Oil: For calming effects"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 2 PM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 2 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Monday at 2 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Monday at 2 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 27\n\nUser: ", "completion": " Chatbot: Scenario 27"}
+{"prompt": "Context: \nChatbot: Let's discuss your brain fog. How often do you experience brain fog?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's discuss your brain fog. How often do you experience brain fog?"}
+{"prompt": "Context: \nUser: A few times a week.\n\nUser: ", "completion": " Chatbot: User: A few times a week."}
+{"prompt": "Context: \nChatbot: Is the brain fog mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the brain fog mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Mild.\n\nUser: ", "completion": " Chatbot: User: Mild."}
+{"prompt": "Context: \nChatbot: For mild brain fog, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For mild brain fog, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements: For cognitive support\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements: For cognitive support"}
+{"prompt": "Context: \n\u2022 Ginkgo Biloba: For memory enhancement\n\nUser: ", "completion": " Chatbot: \u2022 Ginkgo Biloba: For memory enhancement"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Cannot remember.\n\nUser: ", "completion": " Chatbot: User: Cannot remember."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements"}
+{"prompt": "Context: \n\u2022 Ginkgo Biloba\n\nUser: ", "completion": " Chatbot: \u2022 Ginkgo Biloba"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 28\n\nUser: ", "completion": " Chatbot: Scenario 28"}
+{"prompt": "Context: \nChatbot: Let's talk about your dizziness. How often do you feel dizzy?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your dizziness. How often do you feel dizzy?"}
+{"prompt": "Context: \nUser: Almost daily.\n\nUser: ", "completion": " Chatbot: User: Almost daily."}
+{"prompt": "Context: \nChatbot: Is the dizziness mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the dizziness mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Severe.\n\nUser: ", "completion": " Chatbot: User: Severe."}
+{"prompt": "Context: \nChatbot: For severe dizziness, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For severe dizziness, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Iron Supplements: For addressing anemia\n\nUser: ", "completion": " Chatbot: \u2022 Iron Supplements: For addressing anemia"}
+{"prompt": "Context: \n\u2022 Vitamin D: For overall health\n\nUser: ", "completion": " Chatbot: \u2022 Vitamin D: For overall health"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Wednesday at 3 PM.\n\nUser: ", "completion": " Chatbot: User: Next Wednesday at 3 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Wednesday at 3 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Wednesday at 3 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 29\n\nUser: ", "completion": " Chatbot: Scenario 29"}
+{"prompt": "Context: \nChatbot: Let's talk about your vaginal dryness. How often do you experience it?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your vaginal dryness. How often do you experience it?"}
+{"prompt": "Context: \nUser: Frequently.\n\nUser: ", "completion": " Chatbot: User: Frequently."}
+{"prompt": "Context: \nChatbot: Is the vaginal dryness mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the vaginal dryness mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For moderate vaginal dryness, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For moderate vaginal dryness, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Vaginal Moisturizer: For daily comfort\n\nUser: ", "completion": " Chatbot: \u2022 Vaginal Moisturizer: For daily comfort"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements: For internal hydration\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements: For internal hydration"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Has not seen for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Has not seen for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 60 and over.\n\nUser: ", "completion": " Chatbot: User: 60 and over."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Vaginal Moisturizer\n\nUser: ", "completion": " Chatbot: \u2022 Vaginal Moisturizer"}
+{"prompt": "Context: \n\u2022 Omega-3 Supplements\n\nUser: ", "completion": " Chatbot: \u2022 Omega-3 Supplements"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, I'd like to book a consultation.\n\nUser: ", "completion": " Chatbot: User: Yes, I'd like to book a consultation."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 10 AM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 10 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Tuesday at 10 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 30\n\nUser: ", "completion": " Chatbot: Scenario 30"}
+{"prompt": "Context: \nChatbot: Let's discuss your hot flashes. How often do you experience hot flashes?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's discuss your hot flashes. How often do you experience hot flashes?"}
+{"prompt": "Context: \nUser: Several times a day.\n\nUser: ", "completion": " Chatbot: User: Several times a day."}
+{"prompt": "Context: \nChatbot: Are the hot flashes mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Are the hot flashes mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Severe.\n\nUser: ", "completion": " Chatbot: User: Severe."}
+{"prompt": "Context: \nChatbot: For severe hot flashes, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For severe hot flashes, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Black Cohosh: For reducing hot flashes\n\nUser: ", "completion": " Chatbot: \u2022 Black Cohosh: For reducing hot flashes"}
+{"prompt": "Context: \n\u2022 Soy Isoflavones: For hormone balance\n\nUser: ", "completion": " Chatbot: \u2022 Soy Isoflavones: For hormone balance"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Black Cohosh\n\nUser: ", "completion": " Chatbot: \u2022 Black Cohosh"}
+{"prompt": "Context: \n\u2022 Soy Isoflavones\n\nUser: ", "completion": " Chatbot: \u2022 Soy Isoflavones"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Thursday at 1 PM.\n\nUser: ", "completion": " Chatbot: User: Next Thursday at 1 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Thursday at 1 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Thursday at 1 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 31\n\nUser: ", "completion": " Chatbot: Scenario 31"}
+{"prompt": "Context: \nChatbot: Let's talk about your night sweats. How often do you experience night sweats?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your night sweats. How often do you experience night sweats?"}
+{"prompt": "Context: \nUser: Every night.\n\nUser: ", "completion": " Chatbot: User: Every night."}
+{"prompt": "Context: \nChatbot: Are the night sweats mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Are the night sweats mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For moderate night sweats, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For moderate night sweats, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Black Cohosh: For reducing night sweats\n\nUser: ", "completion": " Chatbot: \u2022 Black Cohosh: For reducing night sweats"}
+{"prompt": "Context: \n\u2022 Vitamin E: For overall health\n\nUser: ", "completion": " Chatbot: \u2022 Vitamin E: For overall health"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Monday at 4 PM.\n\nUser: ", "completion": " Chatbot: User: Next Monday at 4 PM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Monday at 4 PM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Monday at 4 PM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 32\n\nUser: ", "completion": " Chatbot: Scenario 32"}
+{"prompt": "Context: \nChatbot: Let's discuss your weight gain. How much weight have you gained recently?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's discuss your weight gain. How much weight have you gained recently?"}
+{"prompt": "Context: \nUser: About 10 pounds.\n\nUser: ", "completion": " Chatbot: User: About 10 pounds."}
+{"prompt": "Context: \nChatbot: Is the weight gain associated with changes in appetite or activity level?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the weight gain associated with changes in appetite or activity level?"}
+{"prompt": "Context: \nUser: Yes, both.\n\nUser: ", "completion": " Chatbot: User: Yes, both."}
+{"prompt": "Context: \nChatbot: For weight management, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For weight management, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Green Tea Extract: For metabolism boost\n\nUser: ", "completion": " Chatbot: \u2022 Green Tea Extract: For metabolism boost"}
+{"prompt": "Context: \n\u2022 Fiber Supplements: For appetite control\n\nUser: ", "completion": " Chatbot: \u2022 Fiber Supplements: For appetite control"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Not regular for under 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for under 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 40-49.\n\nUser: ", "completion": " Chatbot: User: 40-49."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Green Tea Extract\n\nUser: ", "completion": " Chatbot: \u2022 Green Tea Extract"}
+{"prompt": "Context: \n\u2022 Fiber Supplements\n\nUser: ", "completion": " Chatbot: \u2022 Fiber Supplements"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 33\n\nUser: ", "completion": " Chatbot: Scenario 33"}
+{"prompt": "Context: \nChatbot: Let's talk about your hair thinning. How often do you notice hair thinning or hair loss?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your hair thinning. How often do you notice hair thinning or hair loss?"}
+{"prompt": "Context: \nUser: Almost every day.\n\nUser: ", "completion": " Chatbot: User: Almost every day."}
+{"prompt": "Context: \nChatbot: Is the hair thinning mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the hair thinning mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For moderate hair thinning, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For moderate hair thinning, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Biotin Supplements: For hair growth\n\nUser: ", "completion": " Chatbot: \u2022 Biotin Supplements: For hair growth"}
+{"prompt": "Context: \n\u2022 Collagen Supplements: For hair strength\n\nUser: ", "completion": " Chatbot: \u2022 Collagen Supplements: For hair strength"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Friday at 10 AM.\n\nUser: ", "completion": " Chatbot: User: Next Friday at 10 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Friday at 10 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Friday at 10 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
+{"prompt": "Context: \nScenario 34\n\nUser: ", "completion": " Chatbot: Scenario 34"}
+{"prompt": "Context: \nChatbot: Let's discuss your bloating. How often do you feel bloated?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's discuss your bloating. How often do you feel bloated?"}
+{"prompt": "Context: \nUser: A few times a week.\n\nUser: ", "completion": " Chatbot: User: A few times a week."}
+{"prompt": "Context: \nChatbot: Is the bloating mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Is the bloating mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Mild.\n\nUser: ", "completion": " Chatbot: User: Mild."}
+{"prompt": "Context: \nChatbot: For mild bloating, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For mild bloating, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Probiotics: For digestive health\n\nUser: ", "completion": " Chatbot: \u2022 Probiotics: For digestive health"}
+{"prompt": "Context: \n\u2022 Peppermint Oil Capsules: For reducing bloating\n\nUser: ", "completion": " Chatbot: \u2022 Peppermint Oil Capsules: For reducing bloating"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll proceed with these products.\n\nUser: ", "completion": " Chatbot: User: I'll proceed with these products."}
+{"prompt": "Context: \nChatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:\n\nUser: ", "completion": " Chatbot: Chatbot: Great! Let's continue with a few more questions to better understand your symptoms. Describe your menstrual cycle:"}
+{"prompt": "Context: \n\u2022 Regular like clockwork\n\nUser: ", "completion": " Chatbot: \u2022 Regular like clockwork"}
+{"prompt": "Context: \n\u2022 Not regular for under 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for under 12 months"}
+{"prompt": "Context: \n\u2022 Not regular for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Not regular for over 12 months"}
+{"prompt": "Context: \n\u2022 Cannot remember\n\nUser: ", "completion": " Chatbot: \u2022 Cannot remember"}
+{"prompt": "Context: \n\u2022 Has not seen for over 12 months\n\nUser: ", "completion": " Chatbot: \u2022 Has not seen for over 12 months"}
+{"prompt": "Context: \nUser: Not regular for over 12 months.\n\nUser: ", "completion": " Chatbot: User: Not regular for over 12 months."}
+{"prompt": "Context: \nChatbot: Thank you. What is your age group?\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you. What is your age group?"}
+{"prompt": "Context: \n\u2022 Under 40\n\nUser: ", "completion": " Chatbot: \u2022 Under 40"}
+{"prompt": "Context: \n\u2022 40-49\n\nUser: ", "completion": " Chatbot: \u2022 40-49"}
+{"prompt": "Context: \n\u2022 50-59\n\nUser: ", "completion": " Chatbot: \u2022 50-59"}
+{"prompt": "Context: \n\u2022 60 and over\n\nUser: ", "completion": " Chatbot: \u2022 60 and over"}
+{"prompt": "Context: \nUser: 50-59.\n\nUser: ", "completion": " Chatbot: User: 50-59."}
+{"prompt": "Context: \nChatbot: Based on your responses, here are the recommended products:\n\nUser: ", "completion": " Chatbot: Chatbot: Based on your responses, here are the recommended products:"}
+{"prompt": "Context: \n\u2022 Probiotics\n\nUser: ", "completion": " Chatbot: \u2022 Probiotics"}
+{"prompt": "Context: \n\u2022 Peppermint Oil Capsules\n\nUser: ", "completion": " Chatbot: \u2022 Peppermint Oil Capsules"}
+{"prompt": "Context: \nWould you like to book a free menopause consultation to discuss these recommendations further?\n\nUser: ", "completion": " Chatbot: Would you like to book a free menopause consultation to discuss these recommendations further?"}
+{"prompt": "Context: \nUser: No, I'm good for now.\n\nUser: ", "completion": " Chatbot: User: No, I'm good for now."}
+{"prompt": "Context: \nChatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!\n\nUser: ", "completion": " Chatbot: Chatbot: Alright! If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!"}
+{"prompt": "Context: \nScenario 35\n\nUser: ", "completion": " Chatbot: Scenario 35"}
+{"prompt": "Context: \nChatbot: Let's talk about your skin changes. How often do you notice changes in your skin, such as dryness or sensitivity?\n\nUser: ", "completion": " Chatbot: Chatbot: Let's talk about your skin changes. How often do you notice changes in your skin, such as dryness or sensitivity?"}
+{"prompt": "Context: \nUser: Almost every day.\n\nUser: ", "completion": " Chatbot: User: Almost every day."}
+{"prompt": "Context: \nChatbot: Are the skin changes mild, moderate, or severe?\n\nUser: ", "completion": " Chatbot: Chatbot: Are the skin changes mild, moderate, or severe?"}
+{"prompt": "Context: \nUser: Moderate.\n\nUser: ", "completion": " Chatbot: User: Moderate."}
+{"prompt": "Context: \nChatbot: For moderate skin changes, here are some product suggestions:\n\nUser: ", "completion": " Chatbot: Chatbot: For moderate skin changes, here are some product suggestions:"}
+{"prompt": "Context: \n\u2022 Hyaluronic Acid: For skin hydration\n\nUser: ", "completion": " Chatbot: \u2022 Hyaluronic Acid: For skin hydration"}
+{"prompt": "Context: \n\u2022 Vitamin E Oil: For skin repair\n\nUser: ", "completion": " Chatbot: \u2022 Vitamin E Oil: For skin repair"}
+{"prompt": "Context: \nWould you like to proceed with purchasing these products or explore other options?\n\nUser: ", "completion": " Chatbot: Would you like to proceed with purchasing these products or explore other options?"}
+{"prompt": "Context: \nUser: I'll explore other options.\n\nUser: ", "completion": " Chatbot: User: I'll explore other options."}
+{"prompt": "Context: \nChatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?\n\nUser: ", "completion": " Chatbot: Chatbot: Sure! Would you like to book a consultation with a specialist to discuss your symptoms in more detail?"}
+{"prompt": "Context: \nUser: Yes, please.\n\nUser: ", "completion": " Chatbot: User: Yes, please."}
+{"prompt": "Context: \nChatbot: Wonderful! Please provide your preferred date and time for the appointment.\n\nUser: ", "completion": " Chatbot: Chatbot: Wonderful! Please provide your preferred date and time for the appointment."}
+{"prompt": "Context: \nUser: Next Tuesday at 11 AM.\n\nUser: ", "completion": " Chatbot: User: Next Tuesday at 11 AM."}
+{"prompt": "Context: \nChatbot: Thank you! I'll schedule an appointment for you next Tuesday at 11 AM. Please provide your email address so we can send you a confirmation.\n\nUser: ", "completion": " Chatbot: Chatbot: Thank you! I'll schedule an appointment for you next Tuesday at 11 AM. Please provide your email address so we can send you a confirmation."}
+{"prompt": "Context: \nUser: My email is user@example.com.\n\nUser: ", "completion": " Chatbot: User: My email is user@example.com."}
+{"prompt": "Context: \nChatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?\n\nUser: ", "completion": " Chatbot: Chatbot: Great! You will receive a confirmation email shortly at user@example.com. Is there anything else I can help you with today?"}
+{"prompt": "Context: \nUser: No, that's all. Thank you!\n\nUser: ", "completion": " Chatbot: User: No, that's all. Thank you!"}
+{"prompt": "Context: \nChatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!\n\nUser: ", "completion": " Chatbot: Chatbot: You're welcome! Take care and don't hesitate to reach out if you have any more questions or need further assistance. Have a great day!"}
